@@ -42,7 +42,7 @@ A conversational chatbot that:
 - Extracts answers from uploaded files
 - Built with Flask 
 
-**Tech Stack:** Python, Flask, HTML/CSS  
+**Tech Stack:** Python, Flask, HTML
 🔗 [View Repository](https://github.com/Manish-N-2006/ChatBot_WebApp)
 
 ---
