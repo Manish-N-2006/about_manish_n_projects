@@ -12,8 +12,8 @@ A smart assistant that uses voice commands to automate tasks like:
 - Sending WhatsApp messages
 - Responding with speech
 
-Tech Stack: Python, pyttsx3, pywhatkit, speech_recognition  
-🔗 View Repository : (https://github.com/Manish-N-2006/Voice_Assistant)
+**Tech Stack**: Python, pyttsx3, pywhatkit, speech_recognition  
+🔗 [View Repository](https://github.com/Manish-N-2006/Voice_Assistant)
 
 ---
 
@@ -23,7 +23,7 @@ A GUI tool to:
 - Convert to grayscale
 - Export to password-protected PDFs
 
-Tech Stack: Python, OpenCV, PyPDF2, Tkinter  
+**Tech Stack**: Python, OpenCV, PyPDF2, Tkinter  
 🔗 [View Repository](https://github.com/Manish-N-2006/Image_To_PDF)
 
 ---
