@@ -28,11 +28,11 @@ A GUI tool to:
 
 ---
 
-## 💬 AI Chatbot Web App (Flask)
-A conversational AI chatbot that:
+## 💬 Chatbot Web App (Flask)
+A conversational chatbot that:
 - Runs in the browser
 - Extracts answers from uploaded files
-- Built with Flask and basic NLP
+- Built with Flask 
 
 **Tech Stack:** Python, Flask, HTML/CSS  
 🔗 [View Repository](https://github.com/Manish-N-2006/AI_ChatBot_WebApp)
@@ -54,4 +54,4 @@ Interactively blur specific parts of an image using mouse selection.
 
 ---
 
-> “I build, learn, and grow — one line of code at a time.”  
+> “I build, learn, and grow .”  
