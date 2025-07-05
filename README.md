@@ -36,7 +36,7 @@ A GUI tool to:
 
 ---
 
-## 💬 Chatbot Web App (Flask)
+## 💬 Chatbot Web App (Flask) - Coming Soon...
 A conversational chatbot that:
 - Runs in the browser
 - Extracts answers from uploaded files
