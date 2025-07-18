@@ -17,9 +17,8 @@ A smart assistant that uses voice commands to automate tasks like:
 
 ---
 
-## 📍 Tourism Portal (School Project)
-A static website designed as a tourism portal showcasing popular destinations, attractions, and travel tips. This project was developed as part of a school assignment to demonstrate basic web development skills.
-
+## 📍 Tourism Portal 
+A static program designed as a tourism portal showcasing popular destinations, attractions, and travel tips. 
 **Tech Stack**: Python Geopy, Mysql, datetime, tabulate
 🔗 [View Repository](https://github.com/Manish-N-2006/tourism_portal)
 
@@ -36,7 +35,7 @@ A GUI tool to:
 
 ---
 
-## 💬 Chatbot Web App (Flask) - Coming Soon...
+## 💬 Chatbot Web App (Flask)
 A conversational chatbot that:
 - Runs in the browser
 - Extracts answers from uploaded files
