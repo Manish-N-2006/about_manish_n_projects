@@ -16,6 +16,34 @@ A smart assistant that uses voice commands to automate tasks like:
 🔗 [View Repository](https://github.com/Manish-N-2006/Simple_Voice_Assistant)
 
 ---
+# AI PRACTICE ARENA
+
+- A platform for users to practice programming and on specific topics like Arrays, Strings, etc...
+- It generates question using Gemini AI via API Key.
+- It is bascially the combination of Gemini Question generation + Compiler.
+- Used Judge0 URL to execute the users code.
+- This platform suports multiple languages like Python, Java, C, C++.
+- It is deployed in render.
+  
+**Tech Stack**: Python, Gemini API, Flask, SQLAlchemy, Firebase,  Judge0 URL (Code Compiler).
+
+🔗 [View Repository](https://github.com/Manish-N-2006/AI-Practice-Areana-Coding-Questions-Generator/tree/main)
+
+---
+# QR Code Generator
+
+This Web App will generate Qr code from user inputs like text, URL, Image, Files using CLoud Storage - Cloudinary 
+
+- User will select input type .
+- Then user will upload the File or image.
+- The image/File is uploaded to Cloudinary (Cloud Storage) and it will return the URL for the file in CLoud Storage.
+- URL is generated to QR code using qr module in python.
+
+**Tech Stack** : Python, QR code module, Flask, Cloudinary (Cloud Storage), HTML,CSS.
+
+🔗 [View Repository](https://github.com/Manish-N-2006/QR_Code_Generator)
+
+---
 
 ## 📍 Tourism Portal 
 A static program designed as a tourism portal showcasing popular destinations, attractions, and travel tips. 
@@ -35,14 +63,12 @@ A GUI tool to:
 
 ---
 
-## 💬 Chatbot Web App (Flask)
-A conversational chatbot that:
-- Runs in the browser
-- Extracts answers from uploaded files
-- Built with Flask 
+## Heart Disease Prediction
+A Heart Disease Predicted using Machine Learning Classification models - Logistic Regression, KNN, SVM. Models are Evaluated and found Logistic Regression performs well with Accuracy Score : 81 %
 
-**Tech Stack:** Python, Flask, HTML
-🔗 [View Repository](https://github.com/Manish-N-2006/ChatBot_WebApp)
+**Tech Stack**: Python, Google Colab, ML ALgorithms, Pandas
+
+🔗 [View Repository](https://github.com/Manish-N-2006/Heart_Disease_Prediction)
 
 ---
 
