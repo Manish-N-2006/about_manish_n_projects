@@ -30,6 +30,16 @@ A smart assistant that uses voice commands to automate tasks like:
 🔗 [View Repository](https://github.com/Manish-N-2006/AI-Practice-Areana-Coding-Questions-Generator/tree/main)
 
 ---
+
+Diabetes Prediction
+A Diabetes Prediction system built using Machine Learning classification models — Logistic Regression, Random Forest, and KNN.
+Models were evaluated, and Random Forest performed best with an Accuracy Score of 82.47% and higher recall, making it suitable for healthcare applications.
+
+Tech Stack: Python, Google Colab, Pandas, Scikit-learn, Machine Learning
+
+🔗 [View Repository](https://github.com/Manish-N-2006/Diabetes_Prediction)
+
+---
 # QR Code Generator
 
 This Web App will generate Qr code from user inputs like text, URL, Image, Files using CLoud Storage - Cloudinary 
